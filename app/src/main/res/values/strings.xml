@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sqlite Conection Login</string>
+
+    <string name="lbl_title">Famous.com</string>
+    <string name="lbl_name">Nombre</string>
+    <string name="txt_name">Digite aquí su nombre</string>
+    <string name="lbl_mail">Correo</string>
+    <string name="txt_mail">Digite aquí su correo</string>
+    <string name="lbl_pass">Contraseña</string>
+    <string name="txt_pass">Digite aquí su contraseña</string>
+    <string name="btn_create">Crear cuenta</string>
+    <string name="lbl_link">¿Ya tiene cuenta? Accede aquí</string>
+
+    <!-- ACTIVITY_LOGIN -->
+    <string name="btn_login">Acceder</string>
+    <string name="lbl_link_register">¿No tienes una cuenta? Accede aquí</string>
+
+    <!-- ACTIVITY_LOGIN2 -->
+    <string name="lbl_welcome">Welcome Back!</string>
+    <string name="lbl_missed">You\'ve been missed</string>
+    <string name="btn_google">sign in Google</string>
+    <string name="lbl_or">OR</string>
+    <string name="txt_email">e-mail</string>
+    <string name="txt_password">password</string>
+    <string name="btn_sign">Sign In</string>
+    <string name="swt_remember">Recordar Usuario</string>
+    <string name="lbl_no_Account">Don\'t have account?
+        <a href="SingIn">Sign up here!</a>
+    </string>
+
+    <string name="lbl_title_bienvenido">Bienvenido</string>
+    <string name="lbl_buscar">Buscar</string>
+    <string name="btn_logOut">Cerrar sesión</string>
+    <string name="btn_viewRecord">Ver Registro</string>
+    <string name="hint_findCustomer">Buscar Correo</string>
+    <string name="btn_record">Registrarme</string>
+    <string name="lbl_title2">SingIn</string>
+    <string name="lbl_hasAccount">¿Ya tienes una cuenta? Accede aquí</string>
+
+</resources>
